@@ -7,4 +7,4 @@
 - Abril Mariel Gonzalez Bernabeu
 
 # Proyecto: Montacargas 🚦 🚦 🚦 
-![Plaqueta_Arduino](https://github.com/Abrilgonzalez1996/Trabajo_Practico_n-1_SPD/blob/45df62a3c43ee24fae2548cfd252fccdbffc7b82/Img/Original.png)
+Img/Proyecto montacargas.png
