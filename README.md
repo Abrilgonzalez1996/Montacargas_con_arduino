@@ -10,4 +10,10 @@
 # Proyecto: Montacargas 
 <p align="center">
    <img src= "Img/Proyecto montacargas.png"/>
-</p>	
+</p>
+
+# Objetivo: 
+El objetivo es que implementes un sistema que pueda recibir ordenes de subir, bajar o pausar desde diferentes pisos y muestre el estado actual del montacargas en el display 7 segmentos. 
+
+# Link al proyecto en tinkercad
+- https://www.tinkercad.com/things/gjzBx4F55UK
