@@ -7,4 +7,4 @@
 - Abril Mariel Gonzalez Bernabeu
 
 # Proyecto: Montacargas 
-[Img/Proyecto montacargas.png](https://github.com/Abrilgonzalez1996/Primer_Parcial_SPD/blob/6b727725dea17f6ad3b11c8427a7b70181e3e3b6/Img/Proyecto%20montacargas.png)
+(https://github.com/Abrilgonzalez1996/Primer_Parcial_SPD/blob/6b727725dea17f6ad3b11c8427a7b70181e3e3b6/Img/Proyecto%20montacargas.png)
