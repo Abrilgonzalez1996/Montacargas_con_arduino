@@ -1,4 +1,4 @@
-<h1 align= "center">Primer_Parcial_SPD 🤖</h1>
+<h1 align= "center">Primer Parcial SPD 🤖</h1>
 
 <p align="center">
    <img src= "Img/ArduinoTinkercad.jpg" />
